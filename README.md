@@ -43,6 +43,8 @@ Download `ExcuseLab.html` and open it in your browser. Done.
 3. Set source to `main` branch, root `/`
 4. Done!
 
+### Option 4 — Use it for free here https://excusetheworld.netlify.app/   
+
 ---
 
 ## 🔑 API Key (Users provide their own)
