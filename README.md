@@ -26,7 +26,6 @@
 
 ## 🚀 Quick Start
 
-### Option 1 — Open Locally
 Just download `ExcuseLab.html` and open it in your browser. Done.
 
 ---
