@@ -29,18 +29,6 @@
 ### Option 1 — Open Locally
 Just download `ExcuseLab.html` and open it in your browser. Done.
 
-### Option 2 — Deploy to Netlify
-1. Fork this repo
-2. Go to [netlify.com](https://netlify.com) → New site from Git
-3. Select this repo
-4. Set publish directory to `/` and build command to *(leave blank)*
-5. Deploy — it's live!
-
-### Option 3 — Deploy to GitHub Pages
-1. Go to repo **Settings → Pages**
-2. Set source to `main` branch, root `/`
-3. GitHub will serve `ExcuseLab.html` automatically (rename to `index.html` if needed)
-
 ---
 
 ## 🔑 API Setup (Groq — Free)
